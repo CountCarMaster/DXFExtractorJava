@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jdxf">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/kabeja-0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/snakeyaml-2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
